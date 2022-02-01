@@ -1,4 +1,4 @@
-# candy
+# ResponsiveSite
 <b>Basic HTML,CSS project just representing the responsive nature of a website</b>
 <br><br>
 <img width="865" alt="screen" src="https://user-images.githubusercontent.com/91627276/149796089-81f006c9-1cd3-4de1-a20d-3105e6ee7e4b.png"><br>
